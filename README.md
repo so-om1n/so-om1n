@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 현수민입니다 👋</h1>
+<h1 align="center">안녕하세요, 현수민입니다</h1>
 <h3 align="center">아이디어를 실제 서비스로 구현하는 Frontend Developer</h3>
 
 <p align="center">
