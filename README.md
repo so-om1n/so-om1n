@@ -39,4 +39,4 @@
 
 ---
 
-📮 t4ngerm1n@gmail.com
+📮 so.om1n.010715@gmail.com
